@@ -5,6 +5,7 @@ import com.example.cryptoapp.data.remote.dto.CoinDto
 import retrofit2.http.GET
 import retrofit2.http.Path
 
+
 interface CoinPaprikaApi {
 
     // Get all coins
